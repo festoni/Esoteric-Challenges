@@ -1,5 +1,5 @@
 //N choose K - hard coded.
-//It only works for  0 < n,k < 10 and n>k
+//It only works for  0 < n,k < 10 and n>k; but it looks cool!
 //Replace n and k with approriate values and run.
 
 nk >-0\>0\> >:1-:v v *_$\|
