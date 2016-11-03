@@ -21,7 +21,7 @@
 
 
 //Additional.
-//Add one more MINUS at points A,B and C (PLUS instead of MINUS at B) for 4-ary generation, or two-more for 5-ary, 
+//Add one more MINUS at points A, C and D (PLUS instead of MINUS at B) for 4-ary generation, or two-more for 5-ary, 
 //three for 6-ary and so on. The result will always be in reverse lexicographic order (if reverse is the right word!)'
 
 

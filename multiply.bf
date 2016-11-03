@@ -8,7 +8,7 @@
 //replace the appropriate comma in the program with a hardcoded number of pluses you need 
 //
 //ISSUE 2: This issue is successfully resolved; the product of the two numbers is shown in base 256 (read from right to left); the result only uses 
-//two cells because the maximum product of two max factors is 255*255=65025; which in base 256 is 254:1 (read from right to left) thus no more than 
+//two cells because the maximum product of two max factors is 255*255=65025; which in base 256 is 1:254 (read from right to left) thus no more than 
 //two cells are required; due to the limiting feature of BF with only 8 bits per cell size
 
 >+>+>+>,>,
