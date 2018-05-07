@@ -6,8 +6,8 @@ Coding challenges in two limited and challenging programming languages.
 N choose K 
 
 
-```multiply```
+```multiply.bf```
 Multiply two integers
 
-```ternary```
+```ternary.bf```
 Print all ternary strings
